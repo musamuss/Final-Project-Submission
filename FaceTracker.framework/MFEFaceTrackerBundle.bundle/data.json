@@ -1,0 +1,14 @@
+{
+    "left_eye": "cur_leye.dat",
+    "right_eye": "cur_reye.dat",
+    "lips": "cur_lips.dat",
+    "face": "cur_face.dat",
+    "cluster_face": "cluster_centers_100_new.dat",
+    "cluster_lips": "cluster_centers_lips_20.dat",
+    "face_pca": "PCA.txt",
+    "lips_web": "SparseHelenPointsNoContourLips_TrainedUsingHybridModel_lambda0.03_nearbyfeaturepool2_moredata_histeq_fixed_no_rotated_new_sampling4_200trees_pool500_20splits_padding0.1_ver6.dat",
+    "face_web": "SparseHelenPointsNoContour_nearbyfeaturepool2_lambda0.05_moredata_histeq_fixed_no_rotated_new_sampling4_200trees_pool500_20splits_padding0.2_ver6.dat",
+    "cluster_face_web": "cluster_centers_10_new.dat",
+    "iris_regressor": "joint_iris_ModiFaceManual_hog_10cascades_200trees_subpix_96descriptor_pairwise_t05_restricted_opencv_resize.dat",
+    "iris_filters": "iris_detection_filters.dat"
+}
